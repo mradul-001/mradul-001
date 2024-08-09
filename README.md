@@ -5,4 +5,4 @@ I'm a second-year Computer Science student at IIT Bombay, passionate about creat
 When I'm not coding, you might find me refining my mental calculation skills, tweaking my Conky configuration, or experimenting with new tech stacks. I'm always on the lookout for exciting projects and collaborations, so feel free to reach out!
 
 # Here are the languages that I use:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mradul-001&layout=compact&theme=aura)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mradul-001&theme=aura)
