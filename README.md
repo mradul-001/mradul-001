@@ -1,4 +1,4 @@
-Hi there, I'm Mradul 👋
+## Hi there, I'm Mradul 👋
 
 I'm a second-year Computer Science student at IIT Bombay, passionate about creating impactful software solutions. With a solid foundation in web development, particularly in React and Flutter, I've built projects ranging from dynamic user interfaces to customized software tools. Currently, I'm diving deeper into AI, exploring the fascinating world of speech-to-text models using TensorFlow.
 
