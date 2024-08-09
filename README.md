@@ -7,4 +7,4 @@ When I'm not coding, you might find me refining my mental calculation skills, tw
 # Here are the languages that I use:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mradul-001&layout=compact&theme=aura)
 
-![GitHub Snake Animation](https://github.com/yourusername/mradul-001/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/mradul-001/mradul-001/blob/output/github-contribution-grid-snake.svg)
