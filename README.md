@@ -8,3 +8,4 @@ When I'm not coding, you might find me refining my mental calculation skills, tw
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mradul-001&theme=aura)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mradul-001&theme=tokyonight)](https://git.io/streak-stats)
