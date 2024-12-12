@@ -8,4 +8,3 @@ When I'm not coding, you might find me refining my mental calculation skills, or
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mradul-001&theme=aura)
-[![](https://visitcount.itsvg.in/api?id=mradul-001&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
