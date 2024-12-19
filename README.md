@@ -8,5 +8,3 @@ When I'm not coding, you might find me refining my mental calculation skills, or
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mradul-001&theme=aura)
-
-![mradul-001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mradul-001&theme=tokyonight&show_icons=true&hide_border=true)
