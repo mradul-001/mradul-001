@@ -1,8 +1,3 @@
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=90&section=header"/> -->
-
-
-
-
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/mr4du1/" target="_blank">Mradul</a>  
 <img height="40" alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/> 
 </h1>
@@ -80,8 +75,4 @@ I'm a Computer Science student at **IIT Bombay**, passionate about open-source d
   </table>
 </div>
 
-
-
 <br>
-
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/> -->
