@@ -67,9 +67,9 @@ I'm a Computer Science student at **IIT Bombay**, passionate about open-source d
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mradul-001&theme=radical&hide_border=true" width="100%"/>
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=mradul-001&show_icons=true&theme=radical&count_private=true&hide_border=true" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=mradul-001&show_icons=true&theme=radical&count_private=true&hide_border=true&line_height=30" width="100%"/>
         <br>
-        <img src="https://streak-stats.demolab.com?user=mradul-001&theme=radical&hide_border=true" width="100%"/>
+        <img src="https://streakstats-two.vercel.app?user=mradul-001&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=215" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
