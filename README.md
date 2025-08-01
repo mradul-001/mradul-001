@@ -25,39 +25,37 @@ I'm a Computer Science student at **IIT Bombay**, passionate about open-source d
 
 <br>
 
-## 🛠️ **Tools & Technologies**
-<br>
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>C++</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="55"/><br>C</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="55"/><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="55"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="55"/><br>PHP</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=dart" width="55"/><br>Dart</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="55"/><br>Bash</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55"/><br>HTML</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55"/><br>CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="55"/><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="55"/><br>Express</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>MongoDB</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="55"/><br>Tensorflow</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=latex" width="55"/><br>Latex</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>MySQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=flutter" width="55"/><br>Flutter</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55"/><br>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>VS Code</td>
-  </tr>
-</table>
 
-<br>
+<!-- <table align="center"> -->
+<!--   <tr> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>C++</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=c" width="55"/><br>C</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="55"/><br>Python</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="55"/><br>JavaScript</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=php" width="55"/><br>PHP</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=dart" width="55"/><br>Dart</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="55"/><br>Bash</td> -->
+<!--   </tr> -->
+<!--   <tr> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55"/><br>HTML</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55"/><br>CSS</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>Tailwind</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="55"/><br>React</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>Node.js</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=express" width="55"/><br>Express</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>MongoDB</td> -->
+<!--   </tr> -->
+<!--   <tr> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="55"/><br>Tensorflow</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=latex" width="55"/><br>Latex</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>MySQL</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=flutter" width="55"/><br>Flutter</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55"/><br>Git</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub</td> -->
+<!--     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>VS Code</td> -->
+<!--   </tr> -->
+<!-- </table> -->
+
 
 ## 📊 **GitHub Stats**
 <div align="center">
