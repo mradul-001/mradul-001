@@ -19,7 +19,7 @@
 
 <!-- --- -->
 
-I'm a Computer Science student at **IIT Bombay**, passionate about open-source development, mathematical modeling, and building real-world systems. I enjoy working with **Python, C, C++, JavaScript**, diving into **machine learning, trading bots, and system customization**. I love solving real life challenging problems. Check out my **[portfolio](https://mradul-001.github.io/portfolio/src)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/mr4du1/)**!
+I'm a Computer Science student at **IIT Bombay**, passionate about open-source development, mathematical modeling, and building real-world systems. I enjoy working with **Python, C, C++, JavaScript**, diving into **machine learning, trading bots, and system customization**. I love solving real life challenging problems. Check out my **[portfolio](https://mradul-001.github.io/myPortfolio)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/mr4du1/)**!
 
 <!-- --- -->
 
