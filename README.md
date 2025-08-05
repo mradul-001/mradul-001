@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/mr4du1/" target="_blank">Mradul</a>  
-<img height="40" alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/> 
+<!-- <img height="40" alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>  -->
 </h1>
 
 <!-- Animated Links -->
