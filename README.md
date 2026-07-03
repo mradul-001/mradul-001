@@ -55,22 +55,3 @@ I'm a Computer Science student at **IIT Bombay**, passionate about open-source d
 <!--     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>VS Code</td> -->
 <!--   </tr> -->
 <!-- </table> -->
-
-
-## 📊 **GitHub Stats**
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mradul-001&hide_border=true&theme=github_dark" width="100%"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=mradul-001&show_icons=true&count_private=true&hide_border=true&line_height=30&theme=github_dark" width="100%"/>
-        <br>
-        <img src="https://streakstats-two.vercel.app?user=mradul-001&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=215&theme=github_dark" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
